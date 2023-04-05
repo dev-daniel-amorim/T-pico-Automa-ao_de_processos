@@ -1,5 +1,7 @@
 # Python - Automação de processos
-Vejam aqui meus projetos de automação de processos com Python, geralmente utilizo Jupyter notebook ou Pycharm como editor de código.
+ 
+Automação de processos é a automatização de tarefas e processos repetitivos. Isso inclui coleta, limpeza e análise de dados, geração de relatórios e visualizações. Isso é feito por meio de scripts ou programas que podem ser executados automaticamente. A automação reduz o tempo e o esforço necessários para realizar tarefas repetitivas e pode ser aplicada em vários setores, como finanças, manufatura, logística e marketing.<br>
+Vejam abaixo meus projetos de automação de processos com Python.
 
 | Projetos/Títulos  | Links/Descrição | Links/Códigos fonte | Vídeo/Run |
 | --- | --- | --- | --- |
